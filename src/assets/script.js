@@ -1,17 +1,17 @@
 var panoramas = [
   {
     id: 'foto1',
-    img: 'http://192.168.0.104:5500/uploads/foto1.jpg',
+    img: '../uploads/foto1.jpg',
     title: 'Foto 1'
   },
   {
     id: 'foto2',
-    img: 'http://192.168.0.104:5500/uploads/foto1.jpg',
+    img: '../uploads/foto1.jpg',
     title: 'Foto 2'
   },
   {
     id: 'foto3',
-    img: 'http://192.168.0.104:5500/uploads/foto1.jpg',
+    img: '../uploads/foto1.jpg',
     title: 'Foto 3'
   }
 ];
